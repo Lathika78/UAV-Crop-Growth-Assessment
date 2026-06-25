@@ -1,0 +1,35 @@
+MEAN-SHIFT 
+
+HSV CLUSTERS
+Cluster 0
+HSV = [21, 89, 120]
+Pixels = 4577
+Percentage = 91.54%
+Classification: Mature / Yellow-Green Vegetation 🌾
+
+Cluster 1
+HSV = [138, 16, 158]
+Pixels = 358
+Percentage = 7.16%
+Classification: Dry / Non-Vegetation 🟤
+
+Cluster 2
+HSV = [137, 37, 48]
+Pixels = 65
+Percentage = 1.30%
+Classification: Dry / Non-Vegetation 🟤
+
+==============================
+MEAN-SHIFT GROWTH SUMMARY
+==============================
+Healthy Growth: 0.00%
+Mature Growth: 91.54%
+Non-Vegetation: 8.46%
+
+==============================
+PERFORMANCE METRICS
+==============================
+Runtime: 5.2091 seconds
+Number of Clusters: 3
+Silhouette Score: 0.4319
+Davies-Bouldin Index: 0.8618

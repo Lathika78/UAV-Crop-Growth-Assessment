@@ -1,0 +1,47 @@
+K-MEANS
+ 
+HSV CLUSTERS
+Cluster 0
+HSV = [22, 97, 111]
+Pixels = 441122
+Percentage = 45.25%
+Classification: Mature / Yellow-Green Vegetation 🌾
+
+Cluster 1
+HSV = [21, 54, 133]
+Pixels = 246865
+Percentage = 25.32%
+Classification: Mature / Yellow-Green Vegetation 🌾
+
+Cluster 2
+HSV = [41, 53, 198]
+Pixels = 130469
+Percentage = 13.38%
+Classification: Healthy Green Vegetation 🌱
+
+Cluster 3
+HSV = [138, 18, 149]
+Pixels = 48803
+Percentage = 5.01%
+Classification: Dry / Non-Vegetation 🟤
+
+Cluster 4
+HSV = [31, 160, 61]
+Pixels = 107669
+Percentage = 11.04%
+Classification: Mature / Yellow-Green Vegetation 🌾
+
+================================
+K-MEANS GROWTH SUMMARY
+================================
+Healthy Growth: 13.38%
+Mature Growth: 81.61%
+Non-Vegetation: 5.01%
+
+================================
+PERFORMANCE METRICS
+================================
+Runtime: 3.8738 seconds
+Number of Clusters: 5
+Silhouette Score: 0.3464
+Davies-Bouldin Index: 0.9269

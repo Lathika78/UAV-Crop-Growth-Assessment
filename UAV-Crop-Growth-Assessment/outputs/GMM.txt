@@ -1,0 +1,47 @@
+GMM
+ 
+HSV CLUSTERS
+Cluster 0
+HSV = [19, 97, 121]
+Pixels = 409774
+Percentage = 42.03%
+Classification: Mature / Yellow-Green Vegetation 🌾
+
+Cluster 1
+HSV = [20, 64, 122]
+Pixels = 242030
+Percentage = 24.83%
+Classification: Mature / Yellow-Green Vegetation 🌾
+
+Cluster 2
+HSV = [42, 57, 187]
+Pixels = 132129
+Percentage = 13.55%
+Classification: Healthy Green Vegetation 🌱
+
+Cluster 3
+HSV = [130, 20, 156]
+Pixels = 51850
+Percentage = 5.32%
+Classification: Dry / Non-Vegetation 🟤
+
+Cluster 4
+HSV = [33, 125, 69]
+Pixels = 139145
+Percentage = 14.27%
+Classification: Mature / Yellow-Green Vegetation 🌾
+
+==============================
+GMM GROWTH SUMMARY
+==============================
+Healthy Growth: 13.55%
+Mature Growth: 81.13%
+Non-Vegetation: 5.32%
+
+==============================
+PERFORMANCE METRICS
+==============================
+Runtime: 21.3434 seconds
+Number of Clusters: 5
+Silhouette Score: 0.1894
+Davies-Bouldin Index: 1.3421
