@@ -1,4 +1,4 @@
-# UAV Crop Growth Assessment Using HSV-Based Clustering
+# Comparative Analysis of K-Means, Mean-Shift, and Gaussian Mixture Models for HSV-Based Crop Growth Assessment Using UAV Imagery
 
 ## Overview
 
